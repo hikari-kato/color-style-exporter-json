@@ -1,2 +1,2 @@
 # color-style-exporter-json
-BCアプリ用のJSONファイルを書き出すプラグイン。
+BCアプリ用のJSONコードを書き出すプラグイン。
