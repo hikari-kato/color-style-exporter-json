@@ -1,0 +1,8 @@
+{
+  "name": "Color Style Exporter JSON",
+  "id": "color-style-exporter-json",
+  "api": "1.0.0",
+  "main": "code.js",
+  "ui": "ui.html",
+  "editorType": ["figma"]
+}
